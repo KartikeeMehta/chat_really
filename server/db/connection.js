@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const url = "mongodb+srv://real_chat:real_123@chat.8c9ujvc.mongodb.net/chat";
+const url = "MONGODB CONNECTION HERE";
 
 mongoose
   .connect(url, {
