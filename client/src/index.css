@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-bg {
+  background: url("../public//images//chat-bg.png");
+}
+
+.input-width {
+  width: 75%;
+}
